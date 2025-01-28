@@ -31,5 +31,5 @@ Tiktok create comments
 
 
 ### contact me
-**Contact for api :** [https://t.me/bloodyev](https://t.me/bloodyev)
-## telegram: @bloodyev
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
