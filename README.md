@@ -5,6 +5,10 @@ Tiktok create comments
 # tiktok_api
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version, x-gorgon, x-ladon, x-argus, algorithms
 
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
+
 ## tiktok API
 
 1. login to the user by email and username
