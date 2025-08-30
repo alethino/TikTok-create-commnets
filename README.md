@@ -9,7 +9,6 @@ Tiktok create comments
 ## Contact Telegram @Neo_Galaxy
 https://t.me/Neo_Galaxy
 
-
 ## tiktok API
 1. login to the user by email and username
 2. register new device
